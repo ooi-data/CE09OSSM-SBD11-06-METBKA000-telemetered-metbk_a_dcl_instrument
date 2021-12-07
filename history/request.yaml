@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSSM-SBD11-06-METBKA000-telemetered-metbk_a_dcl_instrument
 last_request: '2021-12-06T23:10:37.796084Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD11-06-METBKA000-telemetered-metbk_a_dcl_instrument/main/history/response.json
-status: pending
+status: success
